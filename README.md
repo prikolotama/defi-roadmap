@@ -1,10 +1,13 @@
 # Table of contents
 
+Basic
+1 Block
 * [Intro](defi-intro.md)
 * [Web 3.0](Web3.md)
 * [Blockchain basics](blockchain/blockchain-and-bitcoin.md)
+* [Consensys](blockchain/consensys.md)
   - [Ethereum and smart-contracts](blockchain/ethereum.md)
-  - [Consensys](blockchain/consensys.md)
+  - 
   - [Crypto-wallets](blockchain/wallets.md)
     - [Safety](blockchain/safety.md)
   - [Oracles](blockchain/oracles.md)
